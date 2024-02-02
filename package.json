@@ -1,0 +1,17 @@
+{
+  "name": "restfullapiblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "ether": "^0.0.9",
+    "ethers": "^6.6.4",
+    "express": "^4.18.2"
+  }
+}
